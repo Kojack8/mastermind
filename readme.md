@@ -32,4 +32,19 @@ correctly.
 8. The CodeBreaker and CodeMaker swap their roles, repeating step 1-7.
 9. Repeat steps 1-8 for as many rounds you've selected.
 
+### Donald Knuth Algorithm
+
+Any time the computer in this program guesses it executes a series of methods
+that mimic Donald Knuth's algorithm for solving mastermind in five steps or less. All of the implementations in this code were written from scratch.
+
+### Special Thanks
+
+* Thank you Odin Project user, **rlmoser**, whose own project taught me how
+to represent the block colors in the terminal.
+
+* Donald Knuth
+
+* Stackoverflow user **Beta**, whose partial breakdown of Knuth's algo was invaluable.
+(https://stackoverflow.com/questions/62430071/donald-knuth-algorithm-mastermind)
+
 
