@@ -6,7 +6,7 @@ This is the two-player code breaking game Mastermind made with Ruby for *The Odi
 
 ###### If you are using repl.it (https://repl.it/@Kojack8/mastermind#readme.md)
 
-Simply press the large green run button at the top of the screen.
+Simply press the large green and grey run button at the top of the screen.
 Then interact with the black and white console as instructed.
 
 ###### Otherwise, this game is meant to be played in the terminal using the Ruby programming language.
